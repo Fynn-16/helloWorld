@@ -1,4 +1,4 @@
-public classs Lernen {
+public class Lernen {
 
 public static void main (String [] args) {
     
